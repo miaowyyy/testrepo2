@@ -7,3 +7,5 @@ library(ggplot2)
 penguins %>%
   ggplot(aes(x = bill_length_mm)) +
   geom_histogram()
+
+#Hi there
